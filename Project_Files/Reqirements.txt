@@ -1,0 +1,10 @@
+streamlit: For building interactive dashboard interfaces
+fastapi: Backend API framework for rapid development
+uvicorn: ASGI server to run FastAPI
+requests: For API communication from frontend
+python-dotenv: Manage environment variables
+sentence-transformers: Text embedding model
+pydantic-settings: Handle configuration management
+pinecone-client: For semantic document search
+scikit-learn, pandas: For anomaly detection and forecasting
+matplotlib: For report visualizations
